@@ -13,3 +13,6 @@ git push -u origin master
 git fetch
 git switch
 git pull
+
+//Removing a secret -- PAT 
+//reseting commits by git reset HEAD~1
