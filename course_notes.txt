@@ -1,0 +1,15 @@
+git add file.txt || .
+git commit -m "message here"
+//creating repo on GitHub
+//get token
+git remote add origin https://PAT@github.com/valentin02/LEARN_GIT/tree/master
+
+e.x. PAT 
+
+git push -u origin master
+--git remote remove origin
+
+//commit new file on GitHub
+git fetch
+git switch
+git pull
